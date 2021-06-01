@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-crud-sppnpjs-client-side-solution",
+    "id": "00c4637d-6ea8-45f9-972b-0c056324fa4f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-crud-sppnpjs.sppkg"
+  }
+}
