@@ -1,0 +1,23 @@
+{
+  "name": "spfx-crud-sppnpjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werayootk/spfx-crud-sppnpjs.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "pnpjs"
+  ],
+  "author": "werayootk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Werayootk/spfx-crud-sppnpjs/issues"
+  },
+  "homepage": "https://github.com/Werayootk/spfx-crud-sppnpjs#readme"
+}
